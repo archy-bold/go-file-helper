@@ -1,4 +1,4 @@
-package main
+package file
 
 import (
 	"github.com/archy-bold/go-file-helper/s3"
